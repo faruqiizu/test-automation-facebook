@@ -1,0 +1,84 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Login/Page_Facebook  log in or sign up/button_Log in",
+      "brokenLocator": "//button[@id\u003d\u0027u_0_5_/s\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Facebook helps you connect and share with the people in your life.\u0027])[1]/following::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Login/Page_Facebook  log in or sign up/button_Log in_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Login/Page_(15) Facebook/circle_Akun_xbh8q5q x1pwv2dq xvlca1e",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "internal:role\u003dbutton[name\u003d\"Profil Anda\"i]",
+      "proposedLocatorMethod": "SMART_LOCATOR",
+      "recoveryMethod": "SMART_LOCATOR",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Login/Page_(15) Facebook/circle_Akun_xbh8q5q x1pwv2dq xvlca1e_SMART_LOCATOR.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Login/Page_(15) Facebook/div_Keluar",
+      "brokenLocator": "//div[@id\u003d\u0027mount_0_0_W4\u0027]/div/div/div/div[2]/div[5]/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[2]/div/div[5]/div/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Beri Masukan\u0027])[1]/following::div[4]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Login/Page_(15) Facebook/div_Keluar_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Login/LoginFailed/Page_Facebook  log in or sign up/button_Log in",
+      "brokenLocator": "//button[@id\u003d\u0027u_0_5_rJ\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Facebook helps you connect and share with the people in your life.\u0027])[1]/following::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Login/LoginFailed/Page_Facebook  log in or sign up/button_Log in_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Login/LoginFailed/Page_Facebook/h2_Well send you a code to your email address",
+      "brokenLocator": "//form[@id\u003d\u0027u_0_1_H6\u0027]/div/div/div/div[2]/h2",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027There was a problem while logging you in, but we can send a login code to:\u0027])[1]/preceding::h2[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Login/LoginFailed/Page_Facebook/h2_Well send you a code to your email address_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Login/LoginFailed/Page_Facebook/span_The password youve entered is incorrect",
+      "brokenLocator": "//form[@id\u003d\u0027u_0_1_H6\u0027]/div/div[2]/div/div/div/span[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027There was a problem while logging you in, but we can send a login code to:\u0027])[1]/preceding::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Login/LoginFailed/Page_Facebook/span_The password youve entered is incorrect_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Login/LoginFailed/Page_Facebook/div_There was a problem while logging you i_023166",
+      "brokenLocator": "//form[@id\u003d\u0027u_0_1_H6\u0027]/div/div[2]/div/table/tbody/tr/td/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027bangsalman@yahoo.co.id\u0027])[1]/preceding::div[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Login/LoginFailed/Page_Facebook/div_There was a problem while logging you i_023166_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Login/LoginFailed/Page_Facebook/div_Try another wayContinueLog in with password",
+      "brokenLocator": "//form[@id\u003d\u0027u_0_1_H6\u0027]/div/div[3]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Not you?\u0027])[1]/following::div[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Login/LoginFailed/Page_Facebook/div_Try another wayContinueLog in with password_neighbor.png"
+    }
+  ]
+}

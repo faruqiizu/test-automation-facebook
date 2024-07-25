@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginFailedTC invalid username</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b2855c11-a6f7-4fbf-83a5-2aeb48dbfca4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Well send you a code to your email address</name>
+   <tag></tag>
+   <elementGuidId>c4a745d4-0595-4478-8eb5-969d6cacbf0c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='u_0_1_H6']/div/div/div/div[2]/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.uiHeaderTitle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;We'll send you a code to your email address&quot;i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>844c61a7-fba7-4f00-9268-25e21887689b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>uiHeaderTitle</value>
+      <webElementGuid>d93c1253-343b-4bd2-af2d-e443dc79e63e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>c0a9921a-e8d5-40d4-9c6c-711328af710c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>We'll send you a code to your email address</value>
+      <webElementGuid>ec0d14e8-587c-4b0b-8102-23190e81a29b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;u_0_1_H6&quot;)/div[@class=&quot;mtl mbm ptm uiInterstitial _aklr uiInterstitialLarge uiBoxWhite&quot;]/div[@class=&quot;uiHeader uiHeaderBottomBorder mhl mts uiHeaderPage interstitialHeader&quot;]/div[@class=&quot;clearfix uiHeaderTop&quot;]/div[2]/h2[@class=&quot;uiHeaderTitle&quot;]</value>
+      <webElementGuid>cb5688fd-e568-47b7-80f5-f1968e240b30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='u_0_1_H6']/div/div/div/div[2]/h2</value>
+      <webElementGuid>792943eb-b1a6-43f6-a60b-380b501ef2c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='There was a problem while logging you in, but we can send a login code to:'])[1]/preceding::h2[1]</value>
+      <webElementGuid>cc503d45-b76e-48cb-b9ec-dddb67e16f21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/h2</value>
+      <webElementGuid>ee47354c-ca98-414c-a68d-67e3acc5d51f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = concat(&quot;We&quot; , &quot;'&quot; , &quot;ll send you a code to your email address&quot;) or . = concat(&quot;We&quot; , &quot;'&quot; , &quot;ll send you a code to your email address&quot;))]</value>
+      <webElementGuid>9ade8633-dbfa-423f-91fa-eaf4388c980a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

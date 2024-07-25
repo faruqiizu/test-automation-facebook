@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_There was a problem while logging you i_023166</name>
+   <tag></tag>
+   <elementGuidId>3bec43cf-1219-43bf-9323-3611b454fc2a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='u_0_1_H6']/div/div[2]/div/table/tbody/tr/td/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div._aklw</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;There was a problem while logging you in, but we can send a login code to:&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dca65db1-6067-432e-bc79-fd21614f52a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_aklw</value>
+      <webElementGuid>0fbe32d6-df67-4f07-950a-252f69d2df0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>There was a problem while logging you in, but we can send a login code to:</value>
+      <webElementGuid>dd813ab8-4842-4ed7-abed-d6bf3422ec6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;u_0_1_H6&quot;)/div[@class=&quot;mtl mbm ptm uiInterstitial _aklr uiInterstitialLarge uiBoxWhite&quot;]/div[@class=&quot;phl ptm uiInterstitialContent&quot;]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[@class=&quot;_aklw&quot;]</value>
+      <webElementGuid>70f0d91c-2f4c-4cf8-bd10-571727939fc0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='u_0_1_H6']/div/div[2]/div/table/tbody/tr/td/div</value>
+      <webElementGuid>c46e51f0-a643-4c33-9491-acbfb153a204</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='bangsalman@yahoo.co.id'])[1]/preceding::div[1]</value>
+      <webElementGuid>591da08d-9b67-43d5-9408-81996f75bd40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Salman Yusuf'])[1]/preceding::div[4]</value>
+      <webElementGuid>bf63d5f6-8be9-44d0-bc99-4e5a5f3719f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='There was a problem while logging you in, but we can send a login code to:']/parent::*</value>
+      <webElementGuid>caf67382-6142-44d5-b8cd-94173579c146</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div</value>
+      <webElementGuid>59efceee-9d91-4e58-91da-09c76d64ccf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'There was a problem while logging you in, but we can send a login code to:' or . = 'There was a problem while logging you in, but we can send a login code to:')]</value>
+      <webElementGuid>747f40b7-fd01-4130-9572-9bbee92ca70c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
